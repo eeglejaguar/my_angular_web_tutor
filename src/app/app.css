@@ -1,0 +1,29 @@
+nav {
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+  margin-right: 15px;
+  color: #007bff;
+}
+
+a.active-link {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}

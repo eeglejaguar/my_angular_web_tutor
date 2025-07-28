@@ -1,0 +1,30 @@
+h1 {
+  color: #444;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 600px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #00a86b;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #007d4d;
+}
